@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>      //八皇后问题
 #include <string.h>
 #include <iostream>
 using namespace std;
